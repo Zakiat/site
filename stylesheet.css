@@ -1,0 +1,83 @@
+body {
+    background-image: url("https://tinyfindy.nl/wp-content/uploads/2020/03/Tiny-House-50m2-tinyvilla-44-750x397.jpg");
+background-size: cover;
+}
+nav ul {
+    padding:0px;
+    margin: 0px;
+    list-style-type: none;
+    color:grey;
+}
+
+nav li {
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    margin:0px;
+    padding: 0px;
+    border-right: 1px solid #ffffff;
+}
+
+div {
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 16.94%;
+bottom: 0%;
+
+/* Headers / H2 */
+
+font-family: Merriweather;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+}
+
+h4 {
+    color:grey;
+}
+p {
+    /* Een ecologisch tiny */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.94%;
+bottom: 0%;
+
+/* Headers / H2 */
+font-family: Merriweather;
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+}
+
+.info {
+    /* Duurzame materialen */
+
+position: absolute;
+height: 38px;
+left: 0%;
+right: 17.25%;
+top: calc(50% - 38px/2 - 118.5px);
+
+/* Headers / H2 */
+font-family: Merriweather;
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 38px;
+/* identical to box height */
+
+/* Color / Dark green */
+color: #222F33;
+
+}
